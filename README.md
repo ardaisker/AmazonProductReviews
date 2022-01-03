@@ -43,6 +43,8 @@ Clone the repository to your local file ([Clone](https://docs.github.com/en/gith
 ## Contact
 Arda Isker - ardaegeisker@gmail.com  --- aisker@etu.edu.tr
 
+Taner Furkan Göztok - furkangoztok09@gmail.com --- tfgoztok@etu.edu.tr
+
 Project Link: [https://github.com/ardaisker/AmazonProductReviews](https://github.com/ardaisker/SecondaryNodeAdditionProcedure) 
 
 
