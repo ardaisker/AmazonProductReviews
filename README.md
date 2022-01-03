@@ -21,6 +21,23 @@ Numpy
 Required for pandas API on Spark
 ## Installation
 Clone the repository to your local file ([Clone](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)) 
+## Project Paper
+![Image](https://github.com/ardaisker/AmazonProductReviews/blob/main/Images/AmazonProductReviewsPaper10241024_1.jpg?raw=true)
+![Image](https://github.com/ardaisker/AmazonProductReviews/blob/main/Images/AmazonProductReviewsPaper10241024_2.jpg?raw=true)
+![Image](https://github.com/ardaisker/AmazonProductReviews/blob/main/Images/AmazonProductReviewsPaper10241024_3.jpg?raw=true)
+![Image](https://github.com/ardaisker/AmazonProductReviews/blob/main/Images/AmazonProductReviewsPaper10241024_4.jpg?raw=true)
+![Image](https://github.com/ardaisker/AmazonProductReviews/blob/main/Images/AmazonProductReviewsPaper10241024_5.jpg?raw=true)
+![Image](https://github.com/ardaisker/AmazonProductReviews/blob/main/Images/AmazonProductReviewsPaper10241024_6.jpg?raw=true)
+![Image](https://github.com/ardaisker/AmazonProductReviews/blob/main/Images/AmazonProductReviewsPaper10241024_6.jpg?raw=true)
+![Image](https://github.com/ardaisker/AmazonProductReviews/blob/main/Images/AmazonProductReviewsPaper10241024_7.jpg?raw=true)
+![Image](https://github.com/ardaisker/AmazonProductReviews/blob/main/Images/AmazonProductReviewsPaper10241024_8.jpg?raw=true)
+![Image](https://github.com/ardaisker/AmazonProductReviews/blob/main/Images/AmazonProductReviewsPaper10241024_10.jpg?raw=true)
+
+
+
+
+
+
 
 
 ## Contact
