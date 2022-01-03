@@ -1,15 +1,13 @@
 # Amazon Product Reviews
 This is a distributed data processing project using Apache Spark on "Amazon Electronic Product Reviews" dataset between years 1996-2018. This project was prepared using PySpark on Jupyter Notebooks on Docker.
 ## Main Goal
-The main goal to this project is to make inferences on raw "Amazon Electronic Product Reviews" dataset. To do this, i used PySpark on Jupyter Notebooks distributed data processing to make fast and scalable computations. Outputs are optimized to be easy to read by using graphics and lists also explained with tables.
+The main goal of this project is to make inferences on raw "Amazon Electronic Product Reviews" dataset. To do this, we have PySpark on Jupyter Notebooks distributed data processing tool to make fast and scalable computations. Outputs are made easier to read with graphics and lists also explained with tables.
 ## Dataset
 In this project, i used the dataset of the University of San Diego in 2018.
-Overhaul from the data mining project from the publication. The data is made in .JSON file , there are a total of 20994353 reviews in it. The size of the file is 11.51 GB,It can be downloaded from [Dataset](https://nijianmo.github.io/amazon/index.html) link. With disaggregated reviews for each category
-There is an option to download also raw data, removed duplicated reviews.
-There are also processed datasets, such as a filtered version of products with less than 5 reviews. In this project the raw form in the electronics category between 1996-2018 was used. I recommend to fill the [(https://docs.google.com/forms/d/e/1FAIpQLSfYGwCr](https://docs.google.com/forms/d/e/1FAIpQLSfYGwCr-fsH9dchNb4VLRdYpJrIzC2PVbWdFWNyxn_4eL4zMQ/viewform)) form to contact Jianmo Ni, UCSD before download the dataset.
+Overhaul from the data mining project from the publication. The data is made in .JSON file , there are a total of 20994353 reviews in it. The size of the file is 11.51 GB,It can be downloaded from [Dataset](https://nijianmo.github.io/amazon/index.html) link. With disaggregated reviews for each category. There is an option to download also raw data, removed duplicated reviews. There are also processed datasets, such as a filtered version of products with less than 5 reviews. In this project the raw form in the electronics category between 1996-2018 was used. I recommend to fill the [(https://docs.google.com/forms/d/e/1FAIpQLSfYGwCr](https://docs.google.com/forms/d/e/1FAIpQLSfYGwCr-fsH9dchNb4VLRdYpJrIzC2PVbWdFWNyxn_4eL4zMQ/viewform)) form to contact Jianmo Ni, UCSD before download the dataset.
 
 
-## Project Prequisites
+## Project Prerequisites
 PySpark 3.2.0
 
 pandas 0.23.2  for Spark SQL
